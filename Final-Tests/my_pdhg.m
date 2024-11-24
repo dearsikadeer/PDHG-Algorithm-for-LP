@@ -1,4 +1,5 @@
 function [x, y, iter, Out] = my_pdhg(A, b, c, tol, maxit, prt)
+    % Lu Li (121090272), CUHKSZ
     % INPUT:
 
     % 	 	A = constraint coefficient matrix
