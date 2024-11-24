@@ -1,5 +1,8 @@
 # A Computational Study: Primal-Dual Hybrid Gradient (PDHG) Algorithm for Linear Programming
 
+- Lu Li
+- 121090272
+
 The code `my_pdhg.m` implemented a **first-order method** for solving the following standard LP pair:
 ![](img/prob.jpg)
 where \( b \) and \( c \) are nonzero vectors.
