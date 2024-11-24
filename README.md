@@ -2,7 +2,7 @@
 
 The code `my_pdhg.m` implemented a **first-order method** for solving the following standard LP pair:
 
-$min c^T x, \quad \text{s.t. } Ax = b, \, x \geq 0, \quad max b^T y, \quad \text{s.t. } A^T y \leq c.
+$min c^T x, \quad \text{s.t. } Ax = b, \, x \geq 0, \quad max b^T y, \quad \text{s.t. } A^T y \leq c$
 where \( b \) and \( c \) are nonzero vectors.
 
 
